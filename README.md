@@ -1,6 +1,6 @@
-# SPA com Angular #
+# Desenvolvimento Avançado com Angular #
 
-## Desenvolvimento de uma SPA utilizando Angular. ##
+## Desenvolvimento Avançado de um Projeto Angular. ##
 
 📝 **Nota:** Demontração de uma aplicação web que carrega uma única página HTML e atualiza dinamicamente o conteúdo da página conforme o usuário interage com a aplicação.
 
