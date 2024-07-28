@@ -1,4 +1,4 @@
-# Desenvolvimento Avançado com Angular #
+# Angular Avançado #
 
 ## Desenvolvimento Avançado de um Projeto Angular. ##
 
